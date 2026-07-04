@@ -139,10 +139,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
     <rect x="50" y="20" width="10.0" height="40" rx="20" fill="url(#gradient)">
       <animate attributeName="width" from="0" to="10.0" dur="1.5s" fill="freeze"/>
     </rect>
-    <!-- Percentage Text -->
-    <text x="300" y="47" font-family="Fira Code" font-size="20" font-weight="bold" text-anchor="middle" fill="white">2%</text>
-    <!-- Goal Text -->
-    <text x="550" y="50" font-family="Fira Code" font-size="14" fill="#6b7280" text-anchor="end">Goal: 500</text>
+  
   </svg>
 </p>
 
