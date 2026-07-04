@@ -139,17 +139,20 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
     <rect x="50" y="20" width="10.0" height="40" rx="20" fill="url(#gradient)">
       <animate attributeName="width" from="0" to="10.0" dur="1.5s" fill="freeze"/>
     </rect>
-  
+    <!-- Percentage Text -->
+    <text x="300" y="47" font-family="Fira Code" font-size="20" font-weight="bold" text-anchor="middle" fill="white">2%</text>
+    <!-- Goal Text -->
+    <text x="550" y="50" font-family="Fira Code" font-size="14" fill="#6b7280" text-anchor="end">Goal: 500</text>
   </svg>
 </p>
 
 
 <p align="center">
   <a href="https://github.com/asiyamujawar/DSA">
-    <img src="https://img.shields.io/badge/Problems_Solved_LeetCode-4-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Problems_Solved_Striver-0-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Problems_Solved_GFG-0-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Problems_Solved_Common_DSA-10-green?style=for-the-badge&logo=codewars&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-4-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Striver-0-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GFG-0-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Common_DSA_Problems-10-green?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
 </p>
 
