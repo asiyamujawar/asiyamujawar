@@ -117,47 +117,44 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ---
 
 <!-- DSA_STATS_START -->
-## 📚 DSA Progress
 
-| Platform | Problems Solved |
-|----------|----------------:|
-| 🔥 LeetCode | 4 |
-| 📘 Striver Sheet | 0 |
-| 📗 GeeksForGeeks | 0 |
-| 📂 Common DSA | 10 |
-| 📊 Total Problems | 14 |
+<p align="center">
+  <a href="https://github.com/asiyamujawar/DSA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%9A%80+Total+Problems+Solved%3A+14" alt="Typing SVG" />
+  </a>
+</p>
 
-Progress Bar ░░░░░░░░░░░░░░░░░░░░ 14 Problems
 
-### 📈 Breakdown
+<p align="center">
+  <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect x="50" y="20" width="500" height="40" rx="20" fill="#e5e7eb"/>
+    <!-- Progress Bar with Animation -->
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#4F46E5"/>
+        <stop offset="100%" style="stop-color:#8B5CF6"/>
+      </linearGradient>
+    </defs>
+    <rect x="50" y="20" width="10.0" height="40" rx="20" fill="url(#gradient)">
+      <animate attributeName="width" from="0" to="10.0" dur="1.5s" fill="freeze"/>
+    </rect>
+    <!-- Percentage Text -->
+    <text x="300" y="47" font-family="Fira Code" font-size="20" font-weight="bold" text-anchor="middle" fill="white">2%</text>
+    <!-- Goal Text -->
+    <text x="550" y="50" font-family="Fira Code" font-size="14" fill="#6b7280" text-anchor="end">Goal: 500</text>
+  </svg>
+</p>
 
-Basics.............0
-Basic..............0
-Arrays.............0
-Strings............10
-Sorting............0
-Searching..........0
-Recursion..........0
-Hashing............0
-LinkedList.........0
-Stack..............0
-Queue..............0
-Trees..............0
-Graphs.............0
-Heap...............0
-Binary Search......0
-Sliding Window.....0
-Two Pointer........0
-Greedy.............0
-DP.................0
-Backtracking.......0
 
-### 🎯 Badges
-
-![LeetCode](https://img.shields.io/badge/LeetCode-4-orange)
-![Striver](https://img.shields.io/badge/Striver-0-blue)
-![CommonDSA](https://img.shields.io/badge/CommonDSA-10-green)
-![GFG](https://img.shields.io/badge/GFG-0-darkgreen)
+<p align="center">
+  <a href="https://github.com/asiyamujawar/DSA">
+    <img src="https://img.shields.io/badge/Problems_Solved_LeetCode-4-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Problems_Solved_Striver-0-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Problems_Solved_GFG-0-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Problems_Solved_Common_DSA-10-green?style=for-the-badge&logo=codewars&logoColor=white"/>
+  </a>
+</p>
 
 <!-- DSA_STATS_END -->
 
