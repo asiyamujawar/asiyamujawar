@@ -117,7 +117,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 <!-- DSA_STATS_START -->
 
 <p align="center">
-  <h2 align="center">🚀 Total Problems Solved: 6</h2>h2> <h1> + Very Basic DSA Questions: 58</h1>
+  <h2 align="center">🚀 Total Problems Solved: 6 </h2>  <h1> + Very Basic DSA Questions: 58</h1>
 </p>
 
 
