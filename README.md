@@ -119,40 +119,21 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 <!-- DSA_STATS_START -->
 
 <p align="center">
-  <a href="https://github.com/asiyamujawar/DSA">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%9A%80+Total+Problems+Solved%3A+14" alt="Typing SVG" />
-  </a>
+  <h2 align="center">🚀 Total Problems Solved: 42</h2>
 </p>
 
 
 <p align="center">
-  <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect x="50" y="20" width="500" height="40" rx="20" fill="#e5e7eb"/>
-    <!-- Progress Bar with Animation -->
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4F46E5"/>
-        <stop offset="100%" style="stop-color:#8B5CF6"/>
-      </linearGradient>
-    </defs>
-    <rect x="50" y="20" width="10.0" height="40" rx="20" fill="url(#gradient)">
-      <animate attributeName="width" from="0" to="10.0" dur="1.5s" fill="freeze"/>
-    </rect>
-    <!-- Percentage Text -->
-    <text x="300" y="47" font-family="Fira Code" font-size="20" font-weight="bold" text-anchor="middle" fill="white">2%</text>
-    <!-- Goal Text -->
-    <text x="550" y="50" font-family="Fira Code" font-size="14" fill="#6b7280" text-anchor="end">Goal: 500</text>
-  </svg>
+  <pre>Progress: █░░░░░░░░░░░░░░░░░░░ 8% (Goal: 500)</pre>
 </p>
 
 
 <p align="center">
   <a href="https://github.com/asiyamujawar/DSA">
     <img src="https://img.shields.io/badge/LeetCode-4-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Striver-0-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GFG-0-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Common_DSA_Problems-10-green?style=for-the-badge&logo=codewars&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Striver_Sheet-2-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksForGeeks-0-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Common_DSA-36-green?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
 </p>
 
