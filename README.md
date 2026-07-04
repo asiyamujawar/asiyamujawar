@@ -116,6 +116,9 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 ---
 
+<!-- DSA_STATS_START -->
+<!-- DSA_STATS_END -->
+
 ## 📊 GitHub Analytics
 
 <p align="center">
