@@ -121,13 +121,13 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 | Platform | Problems Solved |
 |----------|----------------:|
-| 🔥 LeetCode | 3 |
+| 🔥 LeetCode | 4 |
 | 📘 Striver Sheet | 0 |
 | 📗 GeeksForGeeks | 0 |
 | 📂 Common DSA | 10 |
-| 📊 Total Problems | 13 |
+| 📊 Total Problems | 14 |
 
-Progress Bar ░░░░░░░░░░░░░░░░░░░░ 13 Problems
+Progress Bar ░░░░░░░░░░░░░░░░░░░░ 14 Problems
 
 ### 📈 Breakdown
 
@@ -154,7 +154,7 @@ Backtracking.......0
 
 ### 🎯 Badges
 
-![LeetCode](https://img.shields.io/badge/LeetCode-3-orange)
+![LeetCode](https://img.shields.io/badge/LeetCode-4-orange)
 ![Striver](https://img.shields.io/badge/Striver-0-blue)
 ![CommonDSA](https://img.shields.io/badge/CommonDSA-10-green)
 ![GFG](https://img.shields.io/badge/GFG-0-darkgreen)
