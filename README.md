@@ -117,6 +117,48 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ---
 
 <!-- DSA_STATS_START -->
+## 📚 DSA Progress
+
+| Platform | Problems Solved |
+|----------|----------------:|
+| 🔥 LeetCode | 3 |
+| 📘 Striver Sheet | 0 |
+| 📗 GeeksForGeeks | 0 |
+| 📂 Common DSA | 10 |
+| 📊 Total Problems | 13 |
+
+Progress Bar ░░░░░░░░░░░░░░░░░░░░ 13 Problems
+
+### 📈 Breakdown
+
+Basics.............0
+Basic..............0
+Arrays.............0
+Strings............10
+Sorting............0
+Searching..........0
+Recursion..........0
+Hashing............0
+LinkedList.........0
+Stack..............0
+Queue..............0
+Trees..............0
+Graphs.............0
+Heap...............0
+Binary Search......0
+Sliding Window.....0
+Two Pointer........0
+Greedy.............0
+DP.................0
+Backtracking.......0
+
+### 🎯 Badges
+
+![LeetCode](https://img.shields.io/badge/LeetCode-3-orange)
+![Striver](https://img.shields.io/badge/Striver-0-blue)
+![CommonDSA](https://img.shields.io/badge/CommonDSA-10-green)
+![GFG](https://img.shields.io/badge/GFG-0-darkgreen)
+
 <!-- DSA_STATS_END -->
 
 ## 📊 GitHub Analytics
