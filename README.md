@@ -117,7 +117,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 <!-- DSA_STATS_START -->
 
 <p align="center">
-  <h2 align="center">🚀 Total Problems Solved: 8 | Very Basic DSA Questions: 58</h2>
+  <h2 align="center">🚀 Total Problems Solved: 7 | Very Basic DSA Questions: 58</h2>
 </p>
 
 
@@ -128,7 +128,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 <p align="center">
   <a href="https://github.com/asiyamujawar/DSA">
-    <img src="https://img.shields.io/badge/LeetCode-6-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-5-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Striver_Sheet-2-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
     <img src="https://img.shields.io/badge/GeeksForGeeks-0-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
     <img src="https://img.shields.io/badge/Common_DSA-58-green?style=for-the-badge&logo=codewars&logoColor=white"/>
