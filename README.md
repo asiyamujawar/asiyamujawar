@@ -149,9 +149,9 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asiyamujawar&theme=rogue" /> 
 </p>
 
-### 🎯 Merged Pull Requests & Reviews
+### 🎯 Merged Pull Requests
 <p align="center">
-  <!-- Your main stats card already shows merged PRs and reviews! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=asiyamujawar&theme=radical&show=prs_merged&hide=stars,commits,issues,prs,contribs" alt="Merged PRs" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asiyamujawar&theme=radical&utcOffset=8" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiyamujawar&theme=radical" alt="Top Languages by Repo" />
 </p> 
