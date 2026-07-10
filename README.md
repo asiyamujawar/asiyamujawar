@@ -6,6 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&size=30&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Asiya+Mujawar;Full+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Learner;B.Tech+CSE+Student;Open+Source+Contributor" /> 
 </p> 
 
+---
+
+## 📈 Dynamic GitHub Stats
+<p align="center">
+  <!-- STATS:START -->
+  <a href="https://github.com/asiyamujawar"><img src="https://img.shields.io/badge/⭐_Stars-0-brightgreen?style=for-the-badge" /></a>
+  <a href="https://github.com/asiyamujawar"><img src="https://img.shields.io/badge/🔥_Streak-0%20Days-orange?style=for-the-badge" /></a>
+  <a href="https://github.com/asiyamujawar"><img src="https://img.shields.io/badge/🔀_Merged_PRs-0-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/asiyamujawar"><img src="https://komarev.com/sources/github-profile-views-counter" /></a>
+  <!-- STATS:END -->
+</p>
+
 --- 
 
 ## 🚀 About Me 
