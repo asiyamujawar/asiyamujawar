@@ -136,7 +136,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ## 📊 GitHub Analytics 
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=asiyamujawar&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Asiya's GitHub Stats" /> 
   <img src="https://streak-stats.demolab.com?user=asiyamujawar&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Asiya's GitHub Streak" /> 
 </p> 
 
