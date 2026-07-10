@@ -8,18 +8,6 @@
 
 ----
 
-## 📈 Dynamic GitHub Stats
-<p align="center">
-  <!-- STATS:START -->
-  <a href="https://github.com/asiyamujawar"><img src="https://img.shields.io/badge/⭐_Stars-0-brightgreen?style=for-the-badge" /></a>
-  <a href="https://github.com/asiyamujawar"><img src="https://img.shields.io/badge/🔥_Streak-0%20Days-orange?style=for-the-badge" /></a>
-  <a href="https://github.com/asiyamujawar"><img src="https://img.shields.io/badge/🔀_Merged_PRs-0-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/asiyamujawar"><img src="https://komarev.com/sources/github-profile-views-counter" /></a>
-  <!-- STATS:END -->
-</p>
-
---- 
-
 ## 🚀 About Me 
 
 I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA of **9.32** from Satara, Maharashtra, India. 
@@ -131,11 +119,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 <p align="center"> 
   <h2 align="center">🚀 Total Problems Solved: 12 | Very Basic DSA Questions: 58</h2> 
-</p> 
-
-
-<p align="center"> 
-  <pre>Progress: ░░░░░░░░░░░░░░░░░░░░ 2% (Goal: 500)</pre> 
 </p> 
 
 
