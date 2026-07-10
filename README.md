@@ -12,7 +12,7 @@
 
 I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA of **9.32** from Satara, Maharashtra, India.
 
-- 🔭 I'm currently working on: **MERN, DevOps Automation & Cloud Deployments**
+- 🔭 I'm currently working on: **Java Full Stack, DevOps Automation & Cloud Deployments**
 - 🌱 I'm currently learning: **AWS, CI/CD, Cloud Infrastructure**
 - 💬 Ask me about: **Full Stack Development, DevOps, Cloud Computing, Open Source**
 - 📫 How to reach me: [asiyamujawar05@gmail.com](mailto:asiyamujawar05@gmail.com)
