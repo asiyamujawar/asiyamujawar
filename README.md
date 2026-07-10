@@ -3,7 +3,7 @@
 </div> 
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&size=30&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Asiya+Mujawar;Full+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Learner;B.Tech+CSE+Student;Open+Source+Contributor" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&size=30&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Asiya+Mujawar;Java+Full+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Learner;B.Tech+CSE+Student;Open+Source+Contributor" /> 
 </p> 
 
 --- 
@@ -141,7 +141,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ## 📊 GitHub Analytics 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=asiyamujawar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Asiya's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=asiyamujawar&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Asiya's GitHub Stats" /> 
   <img src="https://streak-stats.demolab.com?user=asiyamujawar&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Asiya's GitHub Streak" /> 
 </p> 
 
