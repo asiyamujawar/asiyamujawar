@@ -19,7 +19,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 --- 
 
-## 🛠️ Tech Stack 
 
 ## 🛠️ Tech Stack
 
